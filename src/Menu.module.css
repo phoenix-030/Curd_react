@@ -1,0 +1,8 @@
+.new{
+    background-color: red;
+    color: white;
+}
+#new>ol{
+    display: flex;
+    text-decoration: none;
+}

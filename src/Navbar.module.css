@@ -1,0 +1,9 @@
+#new{
+    background-color: yellow;
+}
+#new ol>li{
+    display: flex;
+    text-decoration: none;
+    
+
+}
